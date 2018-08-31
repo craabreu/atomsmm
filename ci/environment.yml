@@ -1,0 +1,9 @@
+name: openmm
+channels:
+  - conda-forge
+  - omnia
+dependencies:
+  - python=3.6
+  - openmm
+  - openmmtools
+  - sphinxcontrib-bibtex>=0.4
